@@ -15,6 +15,7 @@ The following rules must be observed when transferring data from the configurati
   4. Incomplete parameters will not be accepted.
   5. Parameters and their values must be separated by a colon (:). 
 
+Work only with text files.
 All data is validated and the programme will not run if at least one parameter is invalid.
 
 Русский `
@@ -34,4 +35,5 @@ All data is validated and the programme will not run if at least one parameter i
   4. Неполные параметры не принимаются.
   5. Параметры и их значения должны быть разделены двоеточием (:). 
 
+Работать только с текстовыми файлами.
 Все данные проверяются, и программа не будет работать, если хотя бы один параметр недействителен.
